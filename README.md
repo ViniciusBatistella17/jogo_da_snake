@@ -6,6 +6,7 @@ Desenvolvido para praticar programação.
 O jogo consiste em controlar uma cobra pelo mapa, coletar as comidas e aumentar sua pontuação. A cobra cresce conforme coleta comida e o jogo termina quando ela bate nas paredes ou no próprio corpo.
 
 ° *Funcionalidades*
+
 Movimentação com WASD ou setas
 Sistema de crescimento da cobra
 Comida gerada aleatoriamente
