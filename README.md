@@ -24,17 +24,29 @@ Pygame
 Durante o desenvolvimento, pratiquei conceitos de Python e programação, como:
 
 Funções
+
 if e else
+
 for e range()
+
 Listas e tuplas
+
 Variáveis e operadores
+
 Manipulação de eventos
+
 Estruturas de repetição
+
 Colisões
+
 Coordenadas X e Y
+
 Controle de tempo
+
 Entrada do teclado
+
 Renderização de elementos na tela
+
 Organização de um projeto utilizando funções
 
 
